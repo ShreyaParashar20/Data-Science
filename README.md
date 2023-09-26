@@ -1,2 +1,1 @@
-# Data-Science
-Data Science Projects
+# Walmart-Store-Sales-Prediction using Machine Learning
